@@ -1,6 +1,6 @@
 <h1 align="center">Hello👋</h1>
 <h3 align="center">A passionate developer from Jaraguá do sul, Brazil</h3>
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif](https://i.pinimg.com/originals/68/90/78/6890784a5a9c5d68c474df77893e1c8f.gif)">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif(https://i.pinimg.com/originals/68/90/78/6890784a5a9c5d68c474df77893e1c8f.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilasouzads&label=Profile%20views&color=0e75b6&style=flat" alt="camilasouzads" /> </p>
 
