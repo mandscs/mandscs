@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camilasouzads&show_icons=true&locale=en" alt="mandscs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=camilasouzads&" alt="mandscs" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=camilasouzads&](https://github-readme-streak-stats.herokuapp.com/demo/?user=mandscs&theme=buefy-dark&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=weekly&properties=background)" alt="mandscs" /></p>
