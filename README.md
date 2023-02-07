@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋</h1>
+<h1 align="center">Hello World!👋</h1>
 <h3 align="center">A passionate developer from Jaraguá do sul, Brazil</h3>
 <img align="right" alt="coding" width="220" src="https://media.giphy.com/media/N9dGBnvFqxeW4/giphy.gif">
 
