@@ -21,4 +21,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandscs&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mandscs&" alt="mandscs"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mandscs&theme=midnight-purple&hide_border=false&border_radius=4.5&locale=en&date_format=&mode=weekly&properties=background" alt="mandscs"/></p>
