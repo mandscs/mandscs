@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on *Clinicorp* 
 
-- 🌱 I’m currently learning *HTML, CSS, JavaScript*
+- 🌱 I’m currently learning *JavaScript, React*
 
 - 👯 I’m looking to collaborate on *Web development*
 
