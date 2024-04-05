@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandscs&label=Profile%20views&color=0e75b6&style=flat" alt="mandscs" /> </p>
 
-- 🔭 I’m currently working on *Clinicorp* 
+- 🔭 I’m currently working on *Lyncas* 
 
 - 🌱 I’m currently learning *JavaScript, React*
 
